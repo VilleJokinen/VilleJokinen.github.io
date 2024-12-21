@@ -18,12 +18,12 @@ const myPage = <div>
   <Header />
     <BrowserRouter>
       <Routes>
-        <Route path="/portfolio" element={<Layout/>}>
-          <Route path ="/portfolio" element={<Home />} />
-          <Route path="/portfolio/cv" element={<CV />} />
-          <Route path="/portfolio/contact" element={<Contact />} />
+        <Route path="/" element={<Layout/>}>
+          <Route path ="/" element={<Home />} />
+          <Route path="/cv" element={<CV />} />
+          <Route path="/contact" element={<Contact />} />
         <Route path="*" element={<NoPage />} />
-        <Route path="/portfolio/cardgame" element={<CardGame />} />
+        <Route path="/cardgame" element={<CardGame />} />
         </Route>
       </Routes>
     </BrowserRouter>

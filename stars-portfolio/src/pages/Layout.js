@@ -7,16 +7,16 @@ const Layout = () => {
                 <div className="container-fluid">
                     <ul className="navbar-nav">
                         <li className="nav-item">
-                            <Link className="nav-link" to="/portfolio">Portfolio</Link>
+                            <Link className="nav-link" to="/">Portfolio</Link>
                         </li>
                         <li className="nav-item">
-                            <Link className="nav-link" to="/portfolio/cv">CV</Link>
+                            <Link className="nav-link" to="/cv">CV</Link>
                         </li>
                         <li className="nav-item">
-                            <Link className="nav-link" to="/portfolio/contact">Contact</Link>
+                            <Link className="nav-link" to="/contact">Contact</Link>
                         </li>
                         <li className="nav-item">
-                            <Link className="nav-link" to="/portfolio/cardgame">Card Game</Link>
+                            <Link className="nav-link" to="/cardgame">Card Game</Link>
                         </li>
                     </ul>
                 </div>
