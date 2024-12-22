@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.457df63f.css",
+    "main.js": "/static/js/main.409bf54a.js",
+    "static/media/space_invader.png": "/static/media/space_invader.e9d0f7f012cddb7459df.png",
+    "static/media/antack_logo.png": "/static/media/antack_logo.17dda47d61c2a1606ebf.png",
+    "static/media/matopeli.png": "/static/media/matopeli.ddee744cf621c041bb4c.png",
+    "static/media/villebot2ss.png": "/static/media/villebot2ss.a41c9ea0c9dafacc30fb.png",
+    "index.html": "/index.html",
+    "main.457df63f.css.map": "/static/css/main.457df63f.css.map",
+    "main.409bf54a.js.map": "/static/js/main.409bf54a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.457df63f.css",
+    "static/js/main.409bf54a.js"
+  ]
+}
